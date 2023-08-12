@@ -14,16 +14,6 @@ I am a dedicated and driven Machine Learning enthusiast with a strong foundation
 
 - **Data Cleaning:** Cases involving the data cleaning of not "training-ready" data.
 
-## Why Hire Me?
-
-By exploring this repository, you will discover a range of qualities that make me a valuable asset to any team:
-
-- **Depth of Knowledge:** My repository reflects the depth of my understanding of Machine Learning and Deep Learning concepts, methodologies, and best practices.
-
-- **Practical Experience:** The projects within this repository underscore my hands-on experience in tackling real-world challenges and devising effective solutions.
-
-- **Learning Agility:** The comprehensive collection of resources highlights my proactive approach to continuous learning and my ability to swiftly adapt to emerging trends and technologies.
-
 ## Contact
 
 I am eager to connect with fellow enthusiasts, potential collaborators, and prospective employers who share a passion for Machine Learning and Deep Learning. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bruno-grandini-novaes/?locale=en_US).
