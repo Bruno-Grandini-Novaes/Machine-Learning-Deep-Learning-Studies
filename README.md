@@ -8,7 +8,7 @@ I am a dedicated and driven Machine Learning enthusiast with a strong foundation
 
 ## Repository Highlights
 
-- **Machine Learning:** Complete exercises training models from the data handling to the proper final model, using diferent models and approach in how to improve results.
+- **Machine Learning:** Complete exercises training models from the data handling to the proper final model, using diferent models and approachs to improve final results.
 
 - **Deep Learning:** Exercises involving the training of neural net's, using different combinations to better accuracy.
 
